@@ -1,2 +1,2 @@
 # hello-world
-all I need to start learning to code productive things!
+I think I'm too lazy to code, but who knows? I might be wrong about that.
